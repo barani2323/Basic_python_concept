@@ -1,0 +1,6 @@
+a=int(input("Enter the frist number:"))
+b=int(input("Enter the second number:"))
+print("addtion:",a+b)
+print("subtraction:",a-b)
+print("multipilication:",a*b)
+print("divition:",a/b)
